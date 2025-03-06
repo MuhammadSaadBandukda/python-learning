@@ -502,3 +502,11 @@ print(y) # 10 not 15
 
 
 
+# In Last
+
+- Agar aapko programming ka basic idea hai, to ye file aapke liye ek shortcut hai. Lekin agar aap bilkul naye hain, to pehle **basic concepts** samajhna zaroori hai.
+
+- Python seekhne ka sabse acha tareeqa **practice** hai. Jitna **explore** karoge, utna seekhne ko milega. **Happy Coding!** 
+
+
+
