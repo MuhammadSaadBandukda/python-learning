@@ -1,5 +1,5 @@
 # Introducion
-- Ye notes un k lie perfect ha jo programming paradym me reh chuke hain aur python ko explore krna chah rahe hain
+- Ye notes un k lie perfect ha jo programming paradigm me reh chuke hain aur python ko explore krna chah rahe hain
 
 - Is me mene Data types aur un k methods ki kuch examples show ki hain jis se apko har datatype ka work flow easily smjh ajyega  
 
@@ -27,7 +27,7 @@ Agar ap kisi bhi programming language se waqif ho aur sirf Python ke syntax expl
 
 ```python
 import random 
-# import ka keyword use kr k ham libraries import krte hain jis me powerful methods hote hai jo k am '.' laga kr access krte hain
+# import ka keyword use kr k ham libraries import krte hain jis me powerful methods hote hai jo k ham '.' laga kr access krte hain
 random.random() # generate random number
 random.randint(1,10) # generate random integer between 1 and 10
 random.choice(list) #randomly choose one element from list (list is defined below)
@@ -186,7 +186,7 @@ print(sabzi)
 squared_number = [x**2 for x in range(1,11)]
 print(squared_number)
 #run it yourself to see magic
-# it has defined in loop topic which is on next file 
+# it has defined in loop topic
 
 ```
 
@@ -279,7 +279,7 @@ print(teacher_with_teaching)
 squared_num = {x:x**2 for x in range(1,11)}
 print(squared_num)
 #run it yourself to see magic
-# !Loops has discussed in loop section which is on next file
+# !Loops has discussed in loop section
 
 
 
@@ -503,7 +503,8 @@ print(y) # 10 not 15
 
 
 # In Last
-
+Bas khtm hui apki core python😊
+You are now ready to dive deep
 - Agar aapko programming ka basic idea hai, to ye file aapke liye ek shortcut hai. Lekin agar aap bilkul naye hain, to pehle **basic concepts** samajhna zaroori hai.
 
 - Python seekhne ka sabse acha tareeqa **practice** hai. Jitna **explore** karoge, utna seekhne ko milega. **Happy Coding!** 
