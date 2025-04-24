@@ -33,7 +33,7 @@ If you’ve got:
 - A confusing concept that needs clarity
 - Session-based MCQs we can archive
 
-👉 Just open a PR or raise an issue. Follow our [contribution guide](CONTRIBUTING.md) (coming soon!).
+👉 Just open a PR or raise an issue. Follow our [contribution guide](CONTRIBUTING.md).
 
 ## 🙌 Community Driven
 
